@@ -22,6 +22,7 @@ import textfsm
 setup(name='jtextfsm',
       maintainer='Google; Jonathan Slenders',
       maintainer_email='textfsm-dev@googlegroups.com',
+      description='Textfsm fork. Made Python 3 compatible.',
       version=textfsm.__version__,
       url='https://github.com/jonathanslenders/textfsm',
       license='Apache License, Version 2.0',
